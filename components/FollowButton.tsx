@@ -36,3 +36,4 @@ function FollowButton({ userId }: { userId: string }) {
   );
 }
 export default FollowButton;
+
